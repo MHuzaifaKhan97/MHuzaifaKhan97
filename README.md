@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa Khan</h1>
 <h3 align="center">A Passionate Web & Mobile Application Developer from Paskitan</h3>
-<img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" />
+<img align="right" alt="Coding" width="300" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" />
 - 🌱 I’m currently learning **Kotlin, Swift, NodeJS, ExpressJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://huzaifa-nadir97.web.app/](https://huzaifa-nadir97.web.app/)
